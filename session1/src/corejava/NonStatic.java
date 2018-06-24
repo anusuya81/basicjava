@@ -4,7 +4,7 @@ public class NonStatic {
 int a=10;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		NonStatic x=new NonStatic();//we made instance of the object
+		NonStatic x=new NonStatic();//we made instance(x) of the object(NonStatic())
 		x.car();//x is a object for the class nonstatic
 		//x.flower();
 //System.out.println("hello");

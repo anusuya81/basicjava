@@ -22,7 +22,7 @@ public class Function extends NonStatic {
 	}
 	public static void country()
 	{
-	state();
+	//state();
 		System.out.println("I am from Mars");
 		//Function l=new Function();
 	    //System.out.println(l.z);
